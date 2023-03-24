@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "devFunc"]
+	path = devFunc
+	url = https://github.com/cran/devFunc
+	shallow = true
+	registered = true
+[submodule "R2DT"]
+	path = R2DT
+	url = https://github.com/cran/R2DT
+	shallow = true
+	registered = true
